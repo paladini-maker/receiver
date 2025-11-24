@@ -1,0 +1,7 @@
+{
+  "name": "Custom Receiver",
+  "short_name": "Receiver",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
